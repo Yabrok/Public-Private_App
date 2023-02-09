@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "postTitle": "gagan",
+      "postBody": "gagan",
+      "id": 1
+    },
+    {
+      "postTitle": "asd",
+      "postBody": "asd",
+      "id": 2
+    },
+    {
+      "postTitle": "asda",
+      "postBody": "asdasd",
+      "id": 3
+    },
+    {
+      "postTitle": "asd",
+      "postBody": "asdasdasdasd",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "eve.holt@reqres.in",
+      "password": "$2a$10$cdtjQ5Xeu4huT9Vx99C7vecBwENrDOqh4B.Bw3ZK4kRGt3jJAJFW6",
+      "firstname": "Nosir@sad",
+      "id": 1
+    },
+    {
+      "email": "eve.holt@reqres.ip",
+      "password": "$2a$10$3ReIfDxFAuQpwGfzyGdR2u7FnzooX7nQucRh7ltg2VfStgFQwVWt2",
+      "firstname": "Nosir",
+      "id": 2
+    },
+    {
+      "email": "Nosir@asdasd",
+      "password": "$2a$10$YfZ1ybT78LxAl9bOvTAP7.QnUyd6KlTXEbV8su3ip1YBzuyokGe7a",
+      "firstname": "Nosir",
+      "id": 3
+    },
+    {
+      "email": "gagan@gagan",
+      "password": "$2a$10$sD0sJrOH6zUgvCByxatoz.OObCmyV/v/STiqmPMQtMUFsvsJ9dv2y",
+      "firstname": "gagan",
+      "id": 4
+    },
+    {
+      "email": "gaganchik@gmail.com",
+      "password": "$2a$10$7vOywgdFgX4gCPLIGlb4JOx6rMN7Wz5GZ.7axXYBX6QeEGeQaRa12",
+      "firstname": "gaganchik",
+      "id": 5
+    }
+  ],
+  "todo": [
+    {
+      "todoText": "asdadasd",
+      "id": 1
+    }
+  ]
+}
